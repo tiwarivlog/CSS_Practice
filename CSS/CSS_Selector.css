@@ -1,0 +1,38 @@
+p{
+    color:red;
+    
+}
+
+#N3{
+    color: rgb(9, 243, 59);
+}
+
+.color-text{
+    color: rgb(98, 134, 7);
+}
+
+#H{
+    font-size: 100px;
+}
+
+.underline-font{
+text-decoration: underline;
+}
+
+
+/* --- same proeperty for css -- */
+
+/* h1{
+    color: blueviolet;
+}
+
+#H{
+    color: blue;
+}
+
+.underline-font{
+    color: black;
+} */
+
+
+

@@ -1,0 +1,13 @@
+
+/*different type of color*/
+
+body{
+
+/* background-color: black; */
+/* background-color:rgb(221, 160, 221) ; */
+/* background-color:rgb(221, 160, 221,0.2) ; */
+/* background-color:#7B68EE; */
+/* background-color:hsl(214, 80%, 60%); */
+background-color:hsla(0,50%,50%,0.5)
+
+}

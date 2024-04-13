@@ -1,0 +1,47 @@
+/* body{
+    background-color:blue;
+} */
+
+#backgrounds{
+    /* background-color: black;
+    color: azure; */
+    /* background-color:aquamarine;
+
+    background-image:url('../Img/download.jpeg');
+
+    background-repeat:no-repeat; */
+
+    /* background-repeat:repeat-x; */
+
+    /* background-repeat:repeat-y; */
+
+    /* background-position: right top; */
+
+    /* background-position: right bottom; */
+
+    /* background-position: right center; */
+
+    /* background-position: center center; */
+
+    /* background-position: 5% 10%; */
+
+    /* background-size: 200px 400px; */
+    /* background-size: 100% 100%; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-attachment: scroll; */
+    /* background-attachment:fixed; */
+
+    background: #E9967A url('../Img/download.jpeg') no-repeat fixed center center / cover;
+   
+    /* background: [background-color] [background-image] [background-repeat] [background-attachment] [background-position] / [background-size];
+ */
+
+ 
+
+}
+
+
+
+
+

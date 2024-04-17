@@ -1,0 +1,33 @@
+#text{
+    width:300px;
+    border: 1px solid red;
+    /* color: blue;
+    text-align:justify; */
+    /* direction: rtl; */
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-transform:capitalize;
+    line-height :30px;
+    text-indent: 50px; */
+    /* letter-spacing: 10px; */
+    /* word-spacing:10px;
+    white-space:normal;
+    word-wrap:break-word; */
+
+  writing-mode:vertical-rl;
+}
+
+
+/* img{
+    height: 40px;
+    width: 30px;
+    border: 3px solid black;
+    vertical-align: super;
+} */
+
+/* #shadow{
+    font-size:100px;
+    text-shadow:-9px -10px 18px red;
+} */
+

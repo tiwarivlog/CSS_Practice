@@ -1,0 +1,25 @@
+
+@font-face{
+    font-family:abc;
+    src: url('../Fonts/MonsieurLaDoulaise-Regular.ttf');
+}
+
+
+
+
+
+
+h1{
+    font-family:abc;
+}
+
+p{
+/* font-size:30px;  */
+/* font-weight:regular;
+font-style: italic; */ 
+
+/* font-variant:small-caps; */
+
+font:italic small-caps 600 30px poppins;
+
+}

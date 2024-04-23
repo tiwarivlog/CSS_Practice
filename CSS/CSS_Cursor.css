@@ -1,0 +1,51 @@
+div{
+    border: 1px solid black;
+
+    /* cursor:auto; */
+
+    /* cursor:all-scroll; */
+    /*sign will totally change will show four direction 
+     cursor*/
+
+     /* cursor:cell; */
+
+     /* cursor will show as plus sign in div */
+
+     /* cursor:col-resize; */
+
+     /* it will show like arrow resizing */
+     
+      /* cursor: crosshair; */
+
+      /* cursor show like bullet focus sign  */
+
+      /* cursor:e-resize; */
+
+      /* it will show arrow resizing  */
+
+      /* cursor:grab; */
+
+      /* it will show hand sign on cursor */
+
+      /* cursor:help; */
+
+      /* it will show question mark in cursor */
+
+      /* cursor: not-allowed;
+       */
+      /* it will show not allow mark */
+     
+     /* cursor:pointer;  */
+
+       /* it will show pointer in cursor */
+
+       /* cursor:progress; */
+       /* it will show search buffering sign with cursor sign */
+
+       /* cursor: wait; */
+       /* it will show wait continue search */
+       /* cursor: zoom-in; */
+       /* cursor:zoom-out; */
+       /* zoom in and zoom out use for showing zoom in and zoom out 
+       in cursor */
+}

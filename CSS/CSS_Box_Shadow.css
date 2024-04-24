@@ -1,0 +1,12 @@
+div{
+
+    border: 3px solid rgb(205, 205, 21);
+    width: 50vw;
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin:250px 250px;
+    box-shadow:19px 14px 21px -2px blue, -19px -14px 21px -2px rgb(13, 13, 14) ;
+
+
+}

@@ -1,0 +1,8 @@
+#resize{
+background-color: rgb(102, 125, 152);
+width: 500px;
+height: 300px;
+overflow: auto;
+resize:both;
+
+}

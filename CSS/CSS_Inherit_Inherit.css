@@ -1,0 +1,26 @@
+#green{
+color:rgb(149, 201, 186);
+font-style: italic;
+font-weight: 600;
+}
+
+
+#blue{
+color:red;
+
+}
+
+
+#initial{
+color:initial;
+font-style:initial;
+font-weight:initial;
+
+
+}
+
+
+#inherit{
+color:inherit;
+
+}

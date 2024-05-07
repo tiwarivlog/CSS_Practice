@@ -1,0 +1,7 @@
+li:nth-last-child(1){
+    color: red;
+}
+
+input:focus{
+    border:5px solid red;
+}

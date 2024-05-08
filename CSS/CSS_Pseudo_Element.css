@@ -1,0 +1,17 @@
+p::first-line{
+    font-size:50px;
+    color: red;
+}
+
+h1::before{
+    content:url('../Img/download.jpeg')
+}
+
+h1::after{
+    content:" nikhil tiwari"
+}
+
+::selection{
+    color:red;
+    background-color:yellow;
+}

@@ -1,0 +1,17 @@
+#cover{
+border:3px solid blue;
+height:200px;
+width:200px;
+margin:300px;
+}
+
+
+
+#content{
+height:200px;
+width:200px;
+background-color: blueviolet;
+transform:perspective(350px) translate3d(0px,0px,-50px)
+
+}
+

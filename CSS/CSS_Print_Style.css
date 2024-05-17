@@ -1,0 +1,20 @@
+p{
+    font-size: 20px;
+    background-color: brown;
+}
+
+@media print{
+
+    p{
+    font-size:40px;
+    background-color:transparent;
+    }
+
+   img{
+    display:none;
+   }
+
+   div{
+    width:50%;
+   }
+}

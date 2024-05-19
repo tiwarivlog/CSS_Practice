@@ -1,0 +1,11 @@
+p{
+    color:green;
+}
+
+.text{
+    color:yellow;
+}
+
+div .text{
+    color:red;
+}
